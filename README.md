@@ -23,7 +23,9 @@
  - 담당: 프론트엔드
    - 사용자 간 유튜브 실시간 영상 공유 및 채팅 구현
    - 플레이룸(영상 공유용 방) 접근 제어 로직 구현
+ - 리포지토리: [@wasuphj/tupli](https://github.com/wasuphj/tupli)
  - 배포: https://tupli.kr
+
 ### 1.2. NFTicket :: NFT 기반 티켓 거래 플랫폼
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -34,6 +36,8 @@
    - ERC721 티켓 발매 및 소유권 변경 Smart Contract 설계 및 구현
    - ERC21 토큰 전송(구매/판매 관련 로직) Smart Contract 설계 및 구현
    - 공연 관련 정보 Smart Contract 설계 및 구현
+ - 리포지토리: [@wasuphj/nfticket](https://github.com/wasuphj/tupli)
+
 ### 1.3. Parasol :: BaaS 플랫폼 구축을 위한 API 서버 설계/구축 (SBJ DNX 기업 연계 PJT)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
