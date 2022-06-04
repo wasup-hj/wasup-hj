@@ -87,7 +87,20 @@
  - 현재 미운영중
 ![프로젝트_아보카톡.png](./images/프로젝트_아보카톡.png)
 
-### 2.2. 육군 관련 업무 자동화 프로젝트
+### 2.2. 가상화폐 거래소 OpenAPI 통합 HTS 개발 프로젝트
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+ - 개발 기간 : 2019.01 - 2019.03 (도중 중단)
+ - 잘못된 플랫폼 선택 및 부족한 실력으로 인한 프로젝트 중단
+ - 실패 원인
+   - 초당 수백번 이상 갱신되는 거래소의 Orderbook Data를 View와 직접 Binding하는 실수
+   - Observer(Observable) 패턴을 통한 데이터 처리 (C# WinForm MVVM 패턴 적용)
+   - C# WinForm과 C# WPF의 refresh rate가 60Hz라는 것을 몰랐음
+   - C# 이외의 Javascript 등 타 Front-end 개발 능력 부재
+   - Binding 미사용 이후에도 Debouncing 등 부적절한 갱신 이벤트 관리 및 ConcurrrentQueue 사용 등의 미숙한 C# 사용
+
+### 2.3. 육군 관련 업무 자동화 프로젝트
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -139,3 +152,7 @@ Jupyter의 파생 프로젝트인 [JupyterLab](https://github.com/jupyterlab/jup
 # 6. 계정
  - @hyungjun010 구계정 (사용기간 2015.06.04-2021.07.01)
  - @wasuphj 현재 계정 (사용기간 2021-현재)
+
+
+[![hyungjun010's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungjun010)](https://github.com/anuraghazra/github-readme-stats)
+[![Wasuphj's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasuphj)](https://github.com/anuraghazra/github-readme-stats)
