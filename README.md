@@ -159,5 +159,5 @@ Jupyter의 파생 프로젝트인 [JupyterLab](https://github.com/jupyterlab/jup
  - @wasuphj 현재 계정 (사용기간 2021-현재)
 
 
-[![hyungjun010's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungjun010)](https://github.com/anuraghazra/github-readme-stats)
-[![Wasuphj's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasuphj)](https://github.com/anuraghazra/github-readme-stats)
+[![hyungjun010's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungjun010&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&count_private=true)
+[![Wasuphj's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasuphj&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&count_private=true)
