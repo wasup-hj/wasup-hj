@@ -51,8 +51,6 @@
      - OAuth 2.0 구글 로그인 구현
      - Spring Cloud Gateway를 이용한 은행 측 REST API 서버 접근 제어 (IP Whitelist, API Key 등)
 
----
-
 ## 2. 토이 프로젝트
 ### 2.1. 아보카톡 - 안드로이드 랜덤 채팅 어플리케이션
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
