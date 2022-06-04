@@ -10,7 +10,7 @@
 백엔드 개발자 김형준입니다.
 
 ## 1. 팀 프로젝트
-#### 1.1. Tupli :: 유튜브 취향 공유 SNS 서비스
+### 1.1. Tupli :: 유튜브 취향 공유 SNS 서비스
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
@@ -96,7 +96,7 @@
  - 체감 실질 업무 단계 80% 이상 감소 (11단계 → 2단계)
  - 육군 업무 관련 아이디어 경진대회 우수상 수상 (소장급)
 
-#### 2.3. Active Directory를 활용한 가족 계정 관리 및 홈 서버 구성
+### 2.3. Active Directory를 활용한 가족 계정 관리 및 홈 서버 구성
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  - Synology NAS를 활용한 사진 및 파일 서버 구성
@@ -105,21 +105,21 @@
  - Let's encrypt 인증서 발급 및 HTTPS 구성
 
 # 3. Open Source 기여
-#### 3.1. JupyterLab 플러그인 설치 시(빌드 과정) 발생하는 [CP949 인코딩 문제](https://github.com/jupyterlab/jupyterlab/issues/9171)에 대한 임시 해결책 제시
+### 3.1. JupyterLab 플러그인 설치 시(빌드 과정) 발생하는 [CP949 인코딩 문제](https://github.com/jupyterlab/jupyterlab/issues/9171)에 대한 임시 해결책 제시
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <a href="https://github.com/jupyterlab/jupyterlab"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter Lab-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
 
 Jupyter의 파생 프로젝트인 [JupyterLab](https://github.com/jupyterlab/jupyterlab)은 Jupyter보다 나은 웹 IDE 환경을 제공하는 프로젝트로, 군 복무(2019-2021) 도중 코딩 공부를 위해 사용 중 버그를 발견하여 해결책과 함께 **Issue Open**
 
-##### Contributer에게 PR 요청을 받았으나 군 복무 중인 관계로 Issue 확인 및 PR이 제한 됨
+#### Contributer에게 PR 요청을 받았으나 군 복무 중인 관계로 Issue 확인 및 PR이 제한 됨
 ![OS1_PR요청.png](./images/OS1_PR요청.png)
  
-##### 타 사용자에 의해 CJK 사용자들에게 Windows 환경에서 유사 문제 발생시 임시 해결책으로 제안 됨
+#### 타 사용자에 의해 CJK 사용자들에게 Windows 환경에서 유사 문제 발생시 임시 해결책으로 제안 됨
 ![OS1_임시해결책.png](./images/OS1_임시해결책.png)
 
-##### 데이터 엔지니어 김하늘 개발자님(@haneulkim214)의 좋아요 ♥
+#### 데이터 엔지니어 김하늘 개발자님(@haneulkim214)의 좋아요 ♥
 ![OS1_좋아요.png](./images/OS1_좋아요.png)
   
-##### 이후, 파생 프로젝트인 Jupyter Server 개발자들이 버그를 해결 한 것으로 판단되어 [Close](https://github.com/jupyterlab/jupyterlab/issues/9171#issuecomment-1146623291)
+#### 이후, 파생 프로젝트인 Jupyter Server 개발자들이 버그를 해결 한 것으로 판단되어 [Close](https://github.com/jupyterlab/jupyterlab/issues/9171#issuecomment-1146623291)
 
 # 4. 이력
  - 2013.07 한일공동이공계학부 국비유학생 15기(2차 5기) 선발
