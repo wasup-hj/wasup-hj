@@ -10,7 +10,7 @@
 백엔드 개발자 김형준입니다.
 
 ## 1. 팀 프로젝트
-### 1.1. Tupli :: 유튜브 취향 공유 SNS 서비스
+### 1.1. Tupli :: 모바일 유튜브 취향 공유 SNS 서비스
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
@@ -23,6 +23,7 @@
  - 담당: 프론트엔드
    - 사용자 간 유튜브 실시간 영상 공유 및 채팅 구현
    - 플레이룸(영상 공유용 방) 접근 제어 로직 구현
+ - 배포: https://tupli.kr
 ### 1.2. NFTicket :: NFT 기반 티켓 거래 플랫폼
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
